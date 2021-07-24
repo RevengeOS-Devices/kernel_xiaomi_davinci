@@ -18,6 +18,7 @@
 #include "../sdmmagpie-thermal-overlay.dtsi"
 
 #include "xiaomi-sdmmagpie-sde-display.dtsi"
+#include "sm6150-audio-overlay.dtsi"
 
 &soc {
 	/*
